@@ -170,3 +170,9 @@ All commands and procedures shown here work in an ideal test environment. In rea
 > - Network configurations
 
 This is the basic principle and guideline for using Metasploit. Real-world use requires adjustments and experimentation.
+
+
+## ⚠️⚠️ Important Notes
+> This guide is for educational purposes only and for testing in your own controlled environments.
+> Do NOT use these techniques on networks or machines without explicit permission!
+
