@@ -1,6 +1,24 @@
 # 🔧 What is the Metasploit Framework?
 As the name suggests, Metasploit is an exploitation framework used for identifying, exploiting, and managing vulnerabilities on target systems.
 ----------
+## 📚 Table of Contents
+
+- 🔧 [What is the Metasploit Framework?](#what-is-the-metasploit-framework)
+- 🧱 [Module Types in Metasploit](#module-types-in-metasploit)
+- 🔍 [Finding and Using Exploits](#finding-and-using-exploits)
+- 🎯 [Selecting a Payload](#selecting-a-payload)
+- ⚙️ [Setting Options](#setting-options)
+- 🚀 [Running the Exploit](#running-the-exploit)
+- 🧠 [Important Terms](#important-terms)
+- 🧪 [Example: EternalBlue](#example-eternalblue)
+- 🖥️ [Managing Sessions](#managing-sessions)
+- ✅ [Summary](#summary)
+- ⚠️ [Disclaimer](#disclaimer)
+- 🚫 [Important Notes](#important-notes)
+
+
+
+---
 ## 🧱 Module Types in Metasploit
 | Module Type | Description                                                 |
 |-------------|-------------------------------------------------------------|
